@@ -1,0 +1,65 @@
+c:\documents and settings\juan\mis documentos\visual studio 2010\Projects\matriz\matriz\bin\Debug\matriz.exe
+c:\documents and settings\juan\mis documentos\visual studio 2010\Projects\matriz\matriz\bin\Debug\matriz.pdb
+c:\documents and settings\juan\mis documentos\visual studio 2010\Projects\matriz\matriz\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\juan\mis documentos\visual studio 2010\Projects\matriz\matriz\obj\x86\Debug\matriz.Form1.resources
+c:\documents and settings\juan\mis documentos\visual studio 2010\Projects\matriz\matriz\obj\x86\Debug\matriz.Properties.Resources.resources
+c:\documents and settings\juan\mis documentos\visual studio 2010\Projects\matriz\matriz\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\juan\mis documentos\visual studio 2010\Projects\matriz\matriz\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\juan\mis documentos\visual studio 2010\Projects\matriz\matriz\obj\x86\Debug\matriz.exe
+c:\documents and settings\juan\mis documentos\visual studio 2010\Projects\matriz\matriz\obj\x86\Debug\matriz.pdb
+D:\SharpDevelop Projects\suma-matriz\matriz\obj\x86\Debug\matriz.exe
+D:\SharpDevelop Projects\suma-matriz\matriz\obj\x86\Debug\matriz.pdb
+D:\SharpDevelop Projects\suma-matriz\matriz\bin\Debug\matriz.exe
+D:\SharpDevelop Projects\suma-matriz\matriz\bin\Debug\matriz.pdb
+D:\SharpDevelop Projects\suma-matriz\matriz\obj\x86\Debug\matriz.Properties.Resources.resources
+D:\SharpDevelop Projects\suma-matriz\matriz\obj\x86\Debug\matriz.csproj.GenerateResource.Cache
+D:\SharpDevelop Projects\suma-matriz\matriz\obj\x86\Debug\matriz.frm_sumayresta.resources
+D:\SharpDevelop Projects\suma-matriz\matriz\obj\x86\Debug\matriz.frm_principal.resources
+D:\SharpDevelop Projects\suma-matriz\matriz\obj\x86\Debug\matriz.frm_producto_escalar.resources
+D:\SharpDevelop Projects\suma-matriz\matriz\obj\x86\Debug\matriz.csprojResolveAssemblyReference.cache
+D:\SharpDevelop Projects\suma-matriz\matriz\obj\x86\Debug\matriz.frm_tipomatriz.resources
+D:\SharpDevelop Projects\suma-matriz\matriz\obj\x86\Debug\matriz.frm_multiplicacion.resources
+D:\SharpDevelop Projects\suma-matriz\matriz\obj\x86\Debug\matriz.frm_muestra.resources
+D:\SharpDevelop Projects\suma-matriz\matriz\obj\x86\Debug\matriz.frm_manual.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.exe
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.pdb
+D:\C#\suma-matriz\matriz\bin\Debug\matriz.exe
+D:\C#\suma-matriz\matriz\bin\Debug\matriz.pdb
+D:\C#\suma-matriz\matriz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_manual.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_muestra.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_multiplicacion.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_principal.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_producto_escalar.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_tipomatriz.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_sumayresta.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.Properties.Resources.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\suma-matriz\matriz\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.exe
+F:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.pdb
+F:\C#\suma-matriz\matriz\bin\Debug\matriz.exe
+F:\C#\suma-matriz\matriz\bin\Debug\matriz.pdb
+F:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_manual.resources
+F:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_muestra.resources
+F:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_multiplicacion.resources
+F:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_principal.resources
+F:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_producto_escalar.resources
+F:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_tipomatriz.resources
+F:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_sumayresta.resources
+F:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.Properties.Resources.resources
+F:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.csproj.GenerateResource.Cache
+E:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.exe
+E:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.pdb
+E:\C#\suma-matriz\matriz\bin\Debug\matriz.exe
+E:\C#\suma-matriz\matriz\bin\Debug\matriz.pdb
+E:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.csprojResolveAssemblyReference.cache
+E:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_manual.resources
+E:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_muestra.resources
+E:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_multiplicacion.resources
+E:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_principal.resources
+E:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_producto_escalar.resources
+E:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_tipomatriz.resources
+E:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_sumayresta.resources
+E:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.Properties.Resources.resources
+E:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.csproj.GenerateResource.Cache

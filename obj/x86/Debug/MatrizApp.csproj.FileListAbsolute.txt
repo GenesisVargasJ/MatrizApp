@@ -1,0 +1,14 @@
+D:\C#\suma-matriz\matriz\bin\Debug\matriz.exe
+D:\C#\suma-matriz\matriz\bin\Debug\matriz.pdb
+D:\C#\suma-matriz\matriz\obj\x86\Debug\MatrizApp.csprojResolveAssemblyReference.cache
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_manual.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_muestra.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_multiplicacion.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_principal.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_producto_escalar.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_tipomatriz.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.frm_sumayresta.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.Properties.Resources.resources
+D:\C#\suma-matriz\matriz\obj\x86\Debug\MatrizApp.csproj.GenerateResource.Cache
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.exe
+D:\C#\suma-matriz\matriz\obj\x86\Debug\matriz.pdb
